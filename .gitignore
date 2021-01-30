@@ -1,0 +1,4 @@
+venv/
+.idea/.name
+.idea/Create-Contact-Book-SQL.iml
+__pycache__/
